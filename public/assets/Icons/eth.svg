@@ -1,0 +1,11 @@
+<svg id="eth" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <circle id="Ellipse_27" data-name="Ellipse 27" cx="25" cy="25" r="25" fill="#5183bf"/>
+  <g id="Group_722" data-name="Group 722" transform="translate(14.063 6.25)">
+    <path id="Path_1914" data-name="Path 1914" d="M16.5,4V17.859l11.714,5.234Z" transform="translate(-4.782 -4)" fill="rgba(255,255,255,0.6)"/>
+    <path id="Path_1915" data-name="Path 1915" d="M20.716,4,9,23.094l11.716-5.234Z" transform="translate(-9 -4)" fill="#fff"/>
+    <path id="Path_1916" data-name="Path 1916" d="M16.5,24.416v9.417L28.22,17.616Z" transform="translate(-4.782 3.659)" fill="rgba(255,255,255,0.6)"/>
+    <path id="Path_1917" data-name="Path 1917" d="M20.716,33.833V24.414L9,17.616Z" transform="translate(-9 3.659)" fill="#fff"/>
+    <path id="Path_1918" data-name="Path 1918" d="M16.5,24.9l11.714-6.8L16.5,12.872Z" transform="translate(-4.782 0.99)" fill="rgba(255,255,255,0.2)"/>
+    <path id="Path_1919" data-name="Path 1919" d="M9,18.1l11.716,6.8V12.872Z" transform="translate(-9 0.99)" fill="rgba(255,255,255,0.6)"/>
+  </g>
+</svg>
